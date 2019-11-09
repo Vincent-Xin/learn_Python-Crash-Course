@@ -1,0 +1,4 @@
+In Python you can make a list
+In Python you can read a file
+In Python you can write into a file 
+In Python you can calculate mathmatics
